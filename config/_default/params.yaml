@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: 'AI Research Engineer'
     org_name: 'Flavio Pinzarrone'
-    description: 'Flavio Pinzarrone - AI Research Engineer specializing in autonomous robotics, drone racing, machine learning, and computer vision. Expertise in autonomous systems, optimal control, and deep learning.'
+    description: "I'm an AI Research Engineer with a particular interest in autonomous systems and robotics. My research focuses mainly on applying machine learning solutions for onboard perception, control, and state estimation in autonomous robots. Currently collaborating with the TII Drone Racing Team, achieving 2nd place in the AI Grand Challenge and 1st place in the AI Multi-Drone Challenge at A2RL."
     keywords: 'Flavio Pinzarrone, AI Research Engineer, autonomous robotics, drone racing, machine learning, computer vision, PhD robotics, autonomous systems, optimal control, deep learning, artificial intelligence'
     twitter: 'GetResearchDev'
   analytics:
