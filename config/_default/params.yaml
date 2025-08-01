@@ -12,9 +12,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    local_business_type: 'AI Research Engineer'
+    org_name: 'Flavio Pinzarrone'
+    description: 'Flavio Pinzarrone is a Freelance AI Research Engineer specializing in machine learning solution for autonomous systems.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Flavio Pinzarrone"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2025 Flavio Pinzarrone. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

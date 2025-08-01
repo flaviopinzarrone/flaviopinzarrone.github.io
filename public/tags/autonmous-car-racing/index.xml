@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonmous Car Racing | Flavio Pinzarrone</title>
+    <link>http://localhost:1313/tags/autonmous-car-racing/</link>
+      <atom:link href="http://localhost:1313/tags/autonmous-car-racing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autonmous Car Racing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Autonmous Car Racing</title>
+      <link>http://localhost:1313/tags/autonmous-car-racing/</link>
+    </image>
+    
+    <item>
+      <title>F1Tenth - ICRA 2022</title>
+      <link>http://localhost:1313/project/f1tenth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/f1tenth/</guid>
+      <description>&lt;p&gt;Competing with UNIBO Racing team in the 10th F1Tenth autonomous grand prix at ICRA 2022 in Philadelphia, USA&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+# Basic Information 
+title: Flavio Pinzarrone
+position: Freelance AI Research Engineer
+email: flavio.pinzarrone (at) outlook.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://flaviopinzarrone.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+social:
+  - title: envelope
+    icon: fa-envelope
+    url: "mailto:flavio.pinzarrone@outlook.com"
+  - title: github
+    icon: fa-github
+    url: https://github.com/flaviopinzarrone
+  - title: linkedin
+    icon: fa-linkedin
+    url: https://www.linkedin.com/in/flavio-pinzarrone/
+  - title: google-scholar
+    icon: fa-graduation-cap
+    url: https://scholar.google.com/citations?user=mCCNR7wAAAAJ&hl=it
+
+cv_link: assets/files/flavio_pinzarrone_cv.pdf
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/icon.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
+
+# Remote theme
+remote_theme: chrisbobbe/jekyll-theme-prologue
+
+collections:
+  - sections
