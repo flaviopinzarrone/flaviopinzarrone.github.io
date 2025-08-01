@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/dataset/</link>
       <atom:link href="http://localhost:1313/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataset</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Dataset</title>
@@ -15,9 +15,17 @@
     <item>
       <title>Drone Racing Dataset</title>
       <link>http://localhost:1313/project/drone-racing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/drone-racing/</guid>
       <description>&lt;p&gt;Extensive high frequency multi modal drone racing dataset&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Race Against the Machine: A Fully-Annotated, Open-Design Dataset of Autonomous and Piloted High-Speed Flight</title>
+      <link>http://localhost:1313/publication/dataset-ral/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dataset-ral/</guid>
+      <description></description>
     </item>
     
   </channel>

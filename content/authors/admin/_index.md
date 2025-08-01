@@ -11,7 +11,7 @@ last_name: Pinzarrone
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🛸
 
 # Is this the primary user of the site?
 superuser: true
@@ -104,13 +104,13 @@ skills:
     items:
       - name: Hiking
         description: ''
-        icon: person-simple-walk
+        icon: ''
       - name: FPV drones
         description: ''
-        icon: drone
+        icon: ''
       - name: Video Games
         description: ''
-        icon: video-games
+        icon: ''
 
 languages:
   - name: English
@@ -127,15 +127,14 @@ awards:
     url: https://www.linkedin.com/posts/giovannipau_dcl-a2rl-abudhabi-ugcPost-7317805361963450369-ol1Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuAqekBffFrohWWYYHffD2NvV_SXBKgFoQ
     date: '2025-04-12'
     awarder: A2RL
-    icon:
     summary: |
+      TII Racing team achieved first place in the AI Multi-Drone race competition.
   - title: TII Racing secures second place in A2RL AI Grand Challenge
     url: https://a2rl.io/press-release/9/artificial-intelligence-triumphs-in-worlds-most-sophisticated-autonomous-drone-race-in-abu-dhabi
     date: '2023-04-12'
     awarder: A2RL
-    icon:
     summary: |
-     Competing with 14 international teams at the A2RL x DCL Autonomous Drone Championship, TII Racing secured second place in the A2RL Grand Challenge. The race featured standardized drones running an NVIDIA Jetson Orin NX, paired with a monocular RGB camera and IMU for real-time onboard perception and control.
+      Competing with 14 international teams at the A2RL x DCL Autonomous Drone Championship, TII Racing secured second place in the A2RL Grand Challenge. The race featured standardized drones running an NVIDIA Jetson Orin NX, paired with a monocular RGB camera and IMU for real-time onboard perception and control.
 ---
 
 ## About Me

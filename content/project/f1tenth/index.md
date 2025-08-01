@@ -1,6 +1,6 @@
 ---
 title: F1Tenth - ICRA 2022
-date: 
+date: '2022-05-25'
 external_link: 'https://icra2022-race.f1tenth.org/results.html'
 tags:
   - Autonmous car racing

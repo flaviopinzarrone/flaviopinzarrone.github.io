@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/resume_FP.pdf
     design:
       css_class: dark
       background:
@@ -30,18 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
@@ -52,56 +52,42 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
+      rows: 2
   - block: collection
+    id: projects
     content:
-      title: Recent Publications
-      text: ""
+      title: Projects
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - project
     design:
       view: article-grid
-  - block: collection
-    id: talks
+      columns: 3
+      rows: 2
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: '🏆 Awards & Achievements'
+      text: |-
+        ## TII Racing wins A2RL AI Multi-Drone Race
+        **April 2025** • A2RL
+        
+        <img src="winners.png" alt="TII Racing Winners" style="width: 300px; height: auto; margin: 20px auto; display: block;">
+        
+        TII Racing team achieved first place in the AI Multi-Drone race competition.
+        
+        [🔗 Read more](https://www.linkedin.com/posts/giovannipau_dcl-a2rl-abudhabi-ugcPost-7317805361963450369-ol1Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuAqekBffFrohWWYYHffD2NvV_SXBKgFoQ)
+        
+        ## TII Racing secures second place in A2RL AI Grand Challenge
+        **April 2025** • A2RL
+        
+        <img src="drones.png" alt="TII Racing Drone Championship" style="width: 300px; height: auto; margin: 20px auto; display: block;">
+        
+        Competing with 14 international teams at the A2RL x DCL Autonomous Drone Championship, TII Racing secured second place in the A2RL Grand Challenge. The race featured standardized drones running an NVIDIA Jetson Orin NX, paired with a monocular RGB camera and IMU for real-time onboard perception and control.
+        
+        [🔗 Read more](https://a2rl.io/press-release/9/artificial-intelligence-triumphs-in-worlds-most-sophisticated-autonomous-drone-race-in-abu-dhabi)
     design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
