@@ -14,7 +14,8 @@ marketing:
     site_type: Person
     local_business_type: 'AI Research Engineer'
     org_name: 'Flavio Pinzarrone'
-    description: 'Flavio Pinzarrone is a Freelance AI Research Engineer specializing in machine learning solution for autonomous systems.'
+    description: 'Flavio Pinzarrone - AI Research Engineer specializing in autonomous robotics, drone racing, machine learning, and computer vision. Expertise in autonomous systems, optimal control, and deep learning.'
+    keywords: 'Flavio Pinzarrone, AI Research Engineer, autonomous robotics, drone racing, machine learning, computer vision, PhD robotics, autonomous systems, optimal control, deep learning, artificial intelligence'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''

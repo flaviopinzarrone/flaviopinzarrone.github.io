@@ -8,6 +8,11 @@ title: Flavio Pinzarrone
 # Website URL
 baseURL: 'https://flaviopinzarrone.github.io/'
 
+# Author information for SEO
+author:
+  name: Flavio Pinzarrone
+  email: flavio.pinzarrone@example.com
+
 ############################
 ## LANGUAGE
 ############################
@@ -54,3 +59,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  changefreq: weekly
+  priority: 0.8
+  filename: sitemap.xml
+
+# Additional SEO params
+params:
+  author: Flavio Pinzarrone
+  keywords: "Flavio Pinzarrone, AI Research Engineer, autonomous robotics, drone racing, machine learning"

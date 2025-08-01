@@ -1,0 +1,30 @@
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Flavio Pinzarrone",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ .Site.BaseURL }}media/icon.png",
+  "jobTitle": "AI Research Engineer",
+  "description": "AI Research Engineer specializing in autonomous robotics, drone racing, machine learning, and computer vision",
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Autonomous Robotics",
+    "Drone Racing",
+    "Computer Vision",
+    "Reinforcement Learning",
+    "Optimal Control"
+  ],
+  "sameAs": [
+    "https://github.com/flaviopinzarrone",
+    "https://www.linkedin.com/in/flaviopinzarrone",
+    "https://scholar.google.com/citations?user=mCCNR7wAAAAJ&hl=it"
+  ],
+  "alumniOf": "University of Bologna",
+  "email": "flavio.pinzarrone@outlook.com"
+}
+</script>
+{{- end -}}
