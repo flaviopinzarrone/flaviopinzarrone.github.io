@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/nlp/</link>
       <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>NLP</title>
@@ -15,7 +15,7 @@
     <item>
       <title>TeamUnibo at SemEval-2023 Task 6: A transformer based approach to Rhetorical Roles prediction and NER in Legal Texts</title>
       <link>http://localhost:1313/publication/semeval/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/semeval/</guid>
       <description></description>
     </item>
