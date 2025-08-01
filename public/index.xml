@@ -1,96 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Flavio Pinzarrone</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Flavio Pinzarrone</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_5fa8888065ae5265.png</url>
-      <title>Flavio Pinzarrone</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
- feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including 
- such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2025 A2RL Drone Race</title>
-      <link>http://localhost:1313/project/a2rl/</link>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/a2rl/</guid>
-      <description>&lt;p&gt;Took part in the 2025 A2RL Drone Race with TII Racing&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drone Racing Dataset</title>
-      <link>http://localhost:1313/project/drone-racing/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/drone-racing/</guid>
-      <description>&lt;p&gt;Extensive high frequency multi modal drone racing dataset&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Race Against the Machine: A Fully-Annotated, Open-Design Dataset of Autonomous and Piloted High-Speed Flight</title>
-      <link>http://localhost:1313/publication/dataset-ral/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dataset-ral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TeamUnibo at SemEval-2023 Task 6: A transformer based approach to Rhetorical Roles prediction and NER in Legal Texts</title>
-      <link>http://localhost:1313/publication/semeval/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/semeval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F1Tenth - ICRA 2022</title>
-      <link>http://localhost:1313/project/f1tenth/</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/f1tenth/</guid>
-      <description>&lt;p&gt;Competing with UNIBO Racing team in the 10th F1Tenth autonomous grand prix at ICRA 2022 in Philadelphia, USA&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flavio Pinzarrone</title><link>https://flaviopinzarrone.github.io/</link><atom:link href="https://flaviopinzarrone.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Flavio Pinzarrone</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://flaviopinzarrone.github.io/media/icon_hu_5fa8888065ae5265.png</url><title>Flavio Pinzarrone</title><link>https://flaviopinzarrone.github.io/</link></image><item><title>Example Talk</title><link>https://flaviopinzarrone.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/event/example/</guid><description>&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.&lt;/span>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Hugo Blox Builder&amp;rsquo;s
+feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
+.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including
+such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>2025 A2RL Drone Race</title><link>https://flaviopinzarrone.github.io/project/a2rl/</link><pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/project/a2rl/</guid><description>&lt;p>Took part in the 2025 A2RL Drone Race with TII Racing&lt;/p></description></item><item><title>Projects</title><link>https://flaviopinzarrone.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/projects/</guid><description/></item><item><title>Drone Racing Dataset</title><link>https://flaviopinzarrone.github.io/project/drone-racing/</link><pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/project/drone-racing/</guid><description>&lt;p>Extensive high frequency multi modal drone racing dataset&lt;/p></description></item><item><title>Race Against the Machine: A Fully-Annotated, Open-Design Dataset of Autonomous and Piloted High-Speed Flight</title><link>https://flaviopinzarrone.github.io/publication/dataset-ral/</link><pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/publication/dataset-ral/</guid><description/></item><item><title>Experience</title><link>https://flaviopinzarrone.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/experience/</guid><description/></item><item><title>TeamUnibo at SemEval-2023 Task 6: A transformer based approach to Rhetorical Roles prediction and NER in Legal Texts</title><link>https://flaviopinzarrone.github.io/publication/semeval/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/publication/semeval/</guid><description/></item><item><title>F1Tenth - ICRA 2022</title><link>https://flaviopinzarrone.github.io/project/f1tenth/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>https://flaviopinzarrone.github.io/project/f1tenth/</guid><description>&lt;p>Competing with UNIBO Racing team in the 10th F1Tenth autonomous grand prix at ICRA 2022 in Philadelphia, USA&lt;/p></description></item></channel></rss>
